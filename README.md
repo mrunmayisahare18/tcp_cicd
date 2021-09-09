@@ -1,6 +1,6 @@
 # tcp_cicd
 
-##Applications under dataplatform
+## Applications under dataplatform
 
 App name | Code 
 ---------|------
@@ -11,7 +11,7 @@ Partner Config | partner-config
 Lead Gen   | lead-gen
 Golden Record extended | gr-extended
 
-##Environments and their codes 
+## Environments and their codes 
 
 Release | ENV | ENV Code
 --------| ----|---------
@@ -26,4 +26,4 @@ R2 | Performance testing env 2 | PF-2
 R2 | Production 1 | PROD1
 R2 | Production 2  | PROD2
 R2 | Disaster recovery | DR
-   | Bug Fixing | BF
+ -  | Bug Fixing | BF
